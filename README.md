@@ -146,7 +146,7 @@ npm run dev
 
 # 🌍 Live Demo
 
-> 🚧 Coming Soon
+https://ahmedhdhili832-dotcom.github.io/LearnChimie/
 
 ---
 
