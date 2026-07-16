@@ -152,8 +152,9 @@ https://ahmedhdhili832-dotcom.github.io/LearnChimie/
 
 # 📸 Screenshots
 
-> Coming Soon
-
+<p align="center">
+  <img src="./immages/Capture d'écran 2026-07-17 005129.png" alt="LearnChimie Home Page" width="100%">
+</p>
 ---
 
 # 📈 Roadmap
